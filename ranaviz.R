@@ -2,8 +2,6 @@
 # Loading Packages
 #------------------
 library(patchwork) 
-library(ROCR)
-library(ggrepel)
 library(tidyverse)
 library(tm)
 library(SnowballC)
@@ -36,6 +34,8 @@ library(rpart.plot)
 library(broom)
 library(GGally)
 library(car)
+library(ROCR)
+library(ggrepel)
 
 #-------------------------------------------
 #           USER INTERFACE AREA
