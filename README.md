@@ -1,2 +1,2 @@
-# datamart_analysis_with_ML
-Analyse de données d'une **Datamart** avec le **Machine Learning** (voir fichier R Shiny : **ranaviz.R**) 
+# Welcome to Datamart Analysis with Machine Learning
+Data analysis of a **Datamart** with **Machine Learning** (see R Shiny file: **ranaviz.R**) 
