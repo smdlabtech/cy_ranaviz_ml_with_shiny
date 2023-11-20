@@ -1,4 +1,4 @@
-# Datamart Analysis with Machine Learning
+# Datamart analysis with Machine Learning (ML)
 Data analysis of a **Datamart** of Retails with **Machine Learning** (see the R Shiny file : **ranaviz.R**)
 
 
