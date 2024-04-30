@@ -5,10 +5,10 @@
 </p>
 <br><br><br><br><br><br><br>
 
-Here's the link to the application: [Visual Analytic for ML]( https://smd-lab-tech.shinyapps.io/Shiny_Dataviz/) and the [report.pdf](/rprt_ana_donnee_avancees_22-1.pdf) containing a case study for interpreting your results.  
+Here's the link to the application : [Visual Analytic for ML]( https://smd-lab-tech.shinyapps.io/Shiny_Dataviz/) and the [report.pdf](/rprt_ana_donnee_avancees_22-1.pdf) containing a case study for interpreting your results.  
 
 
-## Project Summary
+## Summary :
 
 ### 1. Introduction
 Development of a predictive model for the "display" variable using Machine Learning techniques by transforming all continuous variables into categorical for modeling.
