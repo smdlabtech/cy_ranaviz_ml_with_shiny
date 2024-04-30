@@ -30,6 +30,3 @@ Comparative analysis of three machine learning models : Decision Tree, Random Fo
 ### 6. Model Performance (Analysis of the best model)
 Evaluation of the performance of different models in terms of precision and sensitivity.
 
-### Conclusion
-This project demonstrates the effective application of advanced machine learning techniques to optimize prediction and interpretation of results in a specific dataset.
-
