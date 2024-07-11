@@ -1,5 +1,5 @@
 # Datamart analysis with Machine Learning (ML)
-[![GitHub](https://img.shields.io/badge/GitHub-reposotory-informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/smdlabtech/cy_ranaviz_ml_with_shiny)
+[![GitHub](https://img.shields.io/badge/GitHub-repository-informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/smdlabtech/cy_ranaviz_ml_with_shiny)
 
 <p align="left"> 
     <img width="150" height="150" src="assets/img/logo_shiny.png" align="left"></img>
