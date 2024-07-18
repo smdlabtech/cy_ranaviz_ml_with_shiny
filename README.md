@@ -6,7 +6,7 @@
 </p>
 <br><br><br><br><br><br><br>
 
-Here's the link to the application : [➡️ Visual Analytics for ML]( https://smd-lab-tech.shinyapps.io/Shiny_Dataviz/) and the [➡️ report.pdf](/_docs/rprt_ana_donnee_avancees_22-1.pdf) containing a case study for interpreting your results.  
+Here's the link to the application : [📈 Visual Analytics for ML]( https://smd-lab-tech.shinyapps.io/Shiny_Dataviz/) and the [📕 report.pdf](/_docs/rprt_ana_donnee_avancees_22-1.pdf) containing a case study for interpreting your results.  
 
 
 ## Summary :
