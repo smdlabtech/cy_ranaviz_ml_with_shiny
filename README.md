@@ -26,9 +26,9 @@ Development of a predictive model for the **"display"** variable using Machine L
 📉 Use of **MCA** to reduce data dimensionality, identify principal components, and interpret results.
 
 ### 3️⃣ Modeling  
-- 🌳 **Decision Tree**: Classification with specific parameters and a **confusion matrix** to assess performance.  
-- 🌲 **Random Forest**: Application of **random forest**, parameter tuning, and classification results.  
-- 📈 **Logistic Regression**: Prediction using logistic regression, including **error rates** and accuracy metrics.
+- **Decision Tree**: Classification with specific parameters and a **confusion matrix** to assess performance.  
+- **Random Forest**: Application of **random forest**, parameter tuning, and classification results.  
+- **Logistic Regression**: Prediction using logistic regression, including **error rates** and accuracy metrics.
 
 ### 4️⃣ Model Comparison  
 📊 Comparative analysis of three machine learning models: **Decision Tree, Random Forest, and Logistic Regression**.
