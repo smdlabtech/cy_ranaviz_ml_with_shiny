@@ -41,4 +41,4 @@ Development of a predictive model for the **"display"** variable using Machine L
 🚀 **Let's make data-driven decisions!**  
 
 ---
-> 🏆 **GitHub**: [@smdlabtech](https://github.com/smdlabtech)  
+> [@smdlabtech](https://github.com/smdlabtech)  
