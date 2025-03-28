@@ -8,13 +8,11 @@
 </p>
 <br><br><br><br><br><br><br>
 
----
 
 ## 🔗 Links  
 - 📈 **Application** : [Visual Analytics for ML](https://smd-lab-tech.shinyapps.io/Shiny_Dataviz/)  
 - 📕 **Report** : [Case Study Report](./_docs/rprt_ana_donnee_avancees_22-1.pdf)  
 
----
 
 ## 📌 Summary  
 Development of a predictive model for the **"display"** variable using Machine Learning techniques by transforming all continuous variables into categorical for modeling.
@@ -36,7 +34,6 @@ Development of a predictive model for the **"display"** variable using Machine L
 ### 5️⃣ Model Performance (Best Model Analysis)  
 📏 Evaluation of model performance based on **precision** and **sensitivity**.
 
----
 
 🚀 **Let's make data-driven decisions!**  
 
